@@ -18,17 +18,17 @@ public class Course
     
     
     //properties
-    public string CourseName { get; set; }
-    public string CourseCode { get; set; }
+    public string CourseName { get; set; } = "";
+    public string CourseCode { get; set; } = "";
     
     //fields
-    public List<String> _enrolledStudents;
+    public List<String> _enrolledStudents = new List<String>();
 
     
     //Constructors
     public Course(List<String> enrolledStudents)
     {
-        enrolledStudents = _enrolledStudents;
+        _enrolledStudents = enrolledStudents ?? new List<string>();
     }
     
     

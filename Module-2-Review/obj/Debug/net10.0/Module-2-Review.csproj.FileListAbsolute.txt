@@ -1,0 +1,15 @@
+C:\Code\repos\Module-2-Review\Module-2-Review\bin\Debug\net10.0\Module-2-Review.exe
+C:\Code\repos\Module-2-Review\Module-2-Review\bin\Debug\net10.0\Module-2-Review.deps.json
+C:\Code\repos\Module-2-Review\Module-2-Review\bin\Debug\net10.0\Module-2-Review.runtimeconfig.json
+C:\Code\repos\Module-2-Review\Module-2-Review\bin\Debug\net10.0\Module-2-Review.dll
+C:\Code\repos\Module-2-Review\Module-2-Review\bin\Debug\net10.0\Module-2-Review.pdb
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.AssemblyInfoInputs.cache
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.AssemblyInfo.cs
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.csproj.CoreCompileInputs.cache
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.sourcelink.json
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.dll
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\refint\Module-2-Review.dll
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.pdb
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\Module-2-Review.genruntimeconfig.cache
+C:\Code\repos\Module-2-Review\Module-2-Review\obj\Debug\net10.0\ref\Module-2-Review.dll

@@ -7,10 +7,6 @@ public class Student
     public List<double> Grades { get; set; }
 
 
-    //default
-    public Student()
-    {
-    }
 
     //Custom Constructor
     public Student(string name, int id)
@@ -19,6 +15,15 @@ public class Student
         ID = id;
         Grades = new List<double>();
     }
+
+    //default
+    public Student()
+    {
+        Name = "none";
+        ID = 0;
+        Grades = new List<double>();
+    }
+
 
     //methods
 
