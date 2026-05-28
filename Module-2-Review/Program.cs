@@ -1,7 +1,5 @@
 ﻿using Module_2_Review;
 
-
-
 var students = new List<Student>();
 
 var tony = new Student();
@@ -25,7 +23,9 @@ students.Add(sam);
 students.Add(frank);
 students.Add(choc);
 
-var cSharp = new Course();
+var cSharpCourse = new Course();
+cSharpCourse.CourseName = "CSharp-101";
+cSharpCourse.CourseCode = "777";
 
 tony.AddGrade(23.2);
 tony.AddGrade(55.7, 20.1, 8.8, 78.6);
@@ -47,3 +47,6 @@ foreach (var student in students)
     Console.WriteLine($"Average Grade: {student.CalculateAverageGrade():F2}\n");
 }
 
+foreach (var student in students) cSharpCourse.EnrollStudent(student.ID);
+
+cSharpCourse.ShowCourseEnrollements();
