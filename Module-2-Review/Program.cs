@@ -1,12 +1,12 @@
 ﻿using Module_2_Review;
 
-var grades = new List<double>();
+
+
 var students = new List<Student>();
 
 var tony = new Student();
 tony.ID = 123;
 tony.Name = "Tony";
-
 
 var sam = new Student();
 sam.ID = 456;
@@ -25,6 +25,7 @@ students.Add(sam);
 students.Add(frank);
 students.Add(choc);
 
+var cSharp = new Course();
 
 tony.AddGrade(23.2);
 tony.AddGrade(55.7, 20.1, 8.8, 78.6);
